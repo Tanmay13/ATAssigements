@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonPath/json-path-4.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonPath/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonPath/json-path-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonPath/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonPath/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonSchama/json-schema-validator-4.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonSchama/json-schema-validator-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/JsonSchama/json-schema-validator-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/json-path-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/rest-assured-4.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/RestAssured/xml-path-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/ScalaSupport/scala-support-4.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/XMLPAth/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/XMLPAth/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/XMLPAth/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium_Udemy/RestAssured/AllJAr/XMLPAth/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
